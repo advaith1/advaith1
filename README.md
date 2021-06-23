@@ -1,10 +1,9 @@
 ### hello world 👋🏾
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/190916650143318016?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/190916650143318016)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/190916650143318016)
-![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/190916650143318016)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
+![status](https://dev.discordprofiles.me/badge/status/190916650143318016?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/190916650143318016)
+![vscode](https://dev.discordprofiles.me/badge/vscode/190916650143318016)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/190916650143318016)
 
 <!--
 **advaith1/advaith1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
